@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Dr Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Grocery Shopping",
+      "day": "May 15th at 3:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Vet Appointment",
+      "day": "May 25th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Clothes Shopping",
+      "day": "May 19th at 8:30pm",
+      "reminder": true
+    },
+    {
+      "text": "johns first task",
+      "day": "a new task",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
